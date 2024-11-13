@@ -14,7 +14,7 @@ The system can be used in various applications such as human-computer interactio
 ## Dataset
 The dataset used for this project contains images of various hand gestures. The dataset is hosted on Google Drive and can be accessed through the link below:
 
-[Google Drive Dataset Link](YOUR_GOOGLE_DRIVE_LINK_HERE)
+[Google Drive Dataset Link](https://drive.google.com/drive/folders/1pQy06sIVzYRRCc6DVWTQ6zMu7ME7FYqz?usp=drive_link)
 
 The dataset includes the following hand gestures:
 - Thumbs Up
