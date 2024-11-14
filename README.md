@@ -56,7 +56,7 @@ Download dataset
 Update path of your dataset in the real time Implementation
 
 **4.Run the Model**
-Execute the real time .ipynb file to start real-time hand gesture recognition:
+Execute the real time .ipynb file to start real-time hand gesture recognition at the bottom of the Signals_Project:
 
 
 ## Model Architecture
