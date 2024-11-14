@@ -39,3 +39,31 @@ You can install these dependencies using `pip`:
 
 ```bash
 pip install tensorflow opencv-python mediapipe scikit-learn matplotlib seaborn numpy
+```
+
+
+## Setup & Usage
+**1. Clone the Repository**
+Clone the repository to your local machine:
+```bash
+git clone https://github.com/BunnySanga/Hand-Gesture-Recognition
+```
+
+**2. Prepare the Dataset**
+Download dataset
+
+**3.Upadte path**
+Update path of your dataset in the real time Implementation
+
+**4.Run the Model**
+Execute the real time .ipynb file to start real-time hand gesture recognition:
+
+
+## Model Architecture
+The model is built using TensorFlow/Keras and takes Mediapipe’s hand landmarks as input for classification. Key layers include:
+Input Layer: Accepts 2D hand landmark coordinates.
+Hidden Layers: Dense layers with ReLU activation.
+Output Layer: A softmax layer for multi-class classification.
+
+## Results
+The model achieves high accuracy in detecting and classifying gestures, even under varied lighting and angles. Metrics such as accuracy and loss can be found in the training logs.
