@@ -67,3 +67,11 @@ Output Layer: A softmax layer for multi-class classification.
 
 ## Results
 The model achieves high accuracy in detecting and classifying gestures, even under varied lighting and angles. Metrics such as accuracy and loss can be found in the training logs.
+
+
+---
+
+### Author
+- **Sanga Balanarsimha** – [GitHub](https://github.com/BunnySanga)
+
+---
